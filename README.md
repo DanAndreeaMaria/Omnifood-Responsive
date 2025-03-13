@@ -21,6 +21,6 @@ Omnifood is a responsive and modern webpage designed to showcase a healthy meal 
 
 ## Responsive design
 
-  The webpage is optimized for different screen sizes using media queries
-    * On screens smaller than 44em (704px), the grid layouts adjust to ensure readability and usability.
-    * Same on the mobile devices, it fits the screen for a better user experience
+The webpage is optimized for different screen sizes using media queries
+   * On screens smaller than 44em (704px), the grid layouts adjust to ensure readability and usability.
+   * Same on the mobile devices, it fits the screen for a better user experience
